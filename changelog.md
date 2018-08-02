@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### [Unreleased]
 
 
+[v0.0.1] - 2018-08-02
 ### Added
 - Added all required endpoints for by the landing page
     - Currently all endpoints are retrieving mock data
